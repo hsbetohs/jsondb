@@ -1,0 +1,9 @@
+{
+    "users": [{
+        "id": 1,
+        "name": "Julio Avila",
+        "email": "betocelavila@gmail.com",
+        "passwoord": "Contraseña",
+        "profile": "Admin"
+    }]
+}
