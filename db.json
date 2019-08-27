@@ -1,0 +1,42 @@
+{
+    "users": [{
+            "id": 1,
+            "name": "Julio Avila",
+            "email": "betocelavila@gmail.com",
+            "password": "Cambiar*123",
+            "photoUrl": "",
+            "rol": {
+                "admin": true,
+                "editor": false
+            }
+        },
+    ],
+    "movies": [{
+            "id": 1,
+            "actors": "Actor 1, Actor 2, Actor 3, Actor 5",
+            "description": "Descripción 1",
+            "director": "Director 1",
+            "name": "Pelicula 1",
+            "rentalCost": "100",
+            "quantity": 0
+        },
+        {
+            "id": 2,
+            "actors": "Actor 1, Actor 2, Actor 3",
+            "description": "Descripción 2",
+            "director": "Director 2",
+            "name": "Pelicula 2",
+            "rentalCost": "150",
+            "quantity": "1"
+        },
+        {
+            "id": 3,
+            "actors": "Chris Evans (Steve Rogers / Capitán America), Chris Hemsworth (Thor), Cobie Smulders (Agente Maria Hill), Gwyneth Paltrow (Pepper Potts), Jeremy Renner (Clint Barton / Ojo de Halcón), Mark Ruffalo (Bruce Banner), Robert Downey Jr. (Tony Stark / Iron Man), Samuel L. Jackson (Nick Fury), Scarlett Johansson (Natasha Romanoff / Viuda Negra), Stellan Skarsgrd (Profesor Erik Selvig), Tom Hiddleston (Loki)",
+            "description": "Nueva producción del universo Marvel, que continua la línea argumental de las últimas películas proy",
+            "director": "Joss Whedon",
+            "name": "Avengers 1",
+            "rentalCost": "10000",
+            "quantity": "10"
+        }
+    ]
+}
