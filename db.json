@@ -9,7 +9,7 @@
                 "admin": true,
                 "editor": false
             }
-        },
+        }
     ],
     "movies": [{
             "id": 1,
