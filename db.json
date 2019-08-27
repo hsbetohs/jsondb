@@ -4,7 +4,7 @@
             "name": "Julio Avila",
             "email": "betocelavila@gmail.com",
             "password": "Cambiar*123",
-            "photoUrl": "",
+            "photoUrl": "1"
             "rol": {
                 "admin": true,
                 "editor": false
